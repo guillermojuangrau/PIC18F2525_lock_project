@@ -1,0 +1,11 @@
+
+# 1 "../delays_ms.c"
+
+# 30 "../delays_ms.h"
+void wait_500ms(char f_osc);
+
+# 47
+void wait_10ms(char f_osc);
+
+# 65
+void wait_5ms(char f_osc);

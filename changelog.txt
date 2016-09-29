@@ -1,0 +1,17 @@
+﻿**0.0.8**
+	* Módulo usart completo e introducido en main y RAI (para probar y depurar)
+
+**0.0.7**
+        * Funciones comentadas menos lock4_usart.c y lock4_usart.h pendientes de cambio.
+
+
+**0.0.6**
+Nuevo:
+
+	* modulo de interacción con usart (sin terminar)
+
+Cambios:
+
+	* función toogle_leds x dos funciones una para led verde, otra para rojo. Es más claro.
+
+	* cambios en el main xa ajustarlo a las nuevas funciones de leds
